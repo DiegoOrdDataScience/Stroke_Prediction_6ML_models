@@ -1,0 +1,2 @@
+# Stroke_Prediction_6ML_models
+This project uses six machine learning models (XGBoost, Random Forest Classifier, Support Vector Machine, Logistic Regression, Single Decision Tree Classifier, and TabNet)to make stroke predictions. For this purpose, I used the "healthcare-dataset-stroke-data" from Kaggle. To determine which model is the best to make stroke predictions, I plotted the area under the curve (AUC) for each model. The higher the AUC, the better the model
